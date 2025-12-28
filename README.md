@@ -53,3 +53,4 @@ PRECAUTION: -
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+
